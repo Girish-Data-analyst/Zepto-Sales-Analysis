@@ -1,4 +1,4 @@
-# 🚀 Zepto Data Analysis Project  
+# 🚀 Zepto Sales & Operations Analysis
 
 Analyze **Zepto’s quick-commerce operational data** to uncover customer behavior, product performance, and delivery trends. This project mimics a **real-world data analyst role** in a high-paced e-commerce environment.  
 
